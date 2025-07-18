@@ -114,9 +114,9 @@ npx expo start
 | Username | Password   | Role   |
 |----------|------------|--------|
 | admin    | admin123   | admin  |
-| user     | user123    | user   |
+| eve      | demo123    | user   |
 | alice    | demo123    | user   |
-| ...      | ...        | ...    |
+| charlie  | demo123    | user   |
 
 ---
 
@@ -160,7 +160,18 @@ Interndemo/
 ---
 ## 📸 Screenshots / Demo
 
-(Add screenshots or a video here)
+<img width="1254" height="967" alt="Screenshot 2025-07-18 165359" src="https://github.com/user-attachments/assets/ec5b45dc-65c9-4a2a-a7e7-16719a4f5ab6" />
+<img width="1919" height="472" alt="Screenshot 2025-07-18 160703" src="https://github.com/user-attachments/assets/249c1347-a06a-438e-a72b-90c2da9f1336" />
+<img width="1690" height="460" alt="Screenshot 2025-07-18 161340" src="https://github.com/user-attachments/assets/3e5d26a4-f920-43d1-a8f8-48e3afc8371b" />
+<img width="1518" height="623" alt="Screenshot 2025-07-18 161619" src="https://github.com/user-attachments/assets/7ed41ded-6c40-4426-86a4-8559652c3e02" />
+<img width="1892" height="704" alt="Screenshot 2025-07-18 162143" src="https://github.com/user-attachments/assets/ff65bb06-e57c-4baa-ba15-767313b38709" />
+<img width="1914" height="967" alt="Screenshot 2025-07-18 165222" src="https://github.com/user-attachments/assets/2b48e275-2cb0-49a2-9872-878fc9da09ad" />
+<img width="1919" height="969" alt="Screenshot 2025-07-18 165238" src="https://github.com/user-attachments/assets/99a2dae6-5ce6-452f-8531-acb7ae1057ec" />
+<img width="1919" height="968" alt="Screenshot 2025-07-18 165259" src="https://github.com/user-attachments/assets/178911d2-e801-4811-8f0b-544f898d2819" />
+<img width="1919" height="965" alt="Screenshot 2025-07-18 165308" src="https://github.com/user-attachments/assets/ec7174b4-e76d-45ab-a2c7-fa3a49911a0d" />
+<img width="1919" height="935" alt="Screenshot 2025-07-18 165320" src="https://github.com/user-attachments/assets/81cf57b8-2931-4c12-8af9-814cca8f1061" />
+<img width="1919" height="962" alt="Screenshot 2025-07-18 165340" src="https://github.com/user-attachments/assets/805933a6-dce0-43bb-9321-626883f56d6b" />
+<img width="1259" height="965" alt="Screenshot 2025-07-18 165413" src="https://github.com/user-attachments/assets/6261ca42-c784-408c-baa9-db6aa8deb618" />
 
 ---
 
